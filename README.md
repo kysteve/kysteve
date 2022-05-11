@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
-<h3 align="center">A passionate frontend developer from Chesapeake, VA</h3>
+<h3 align="center">A passionate Full-Stack developer from Chesapeake, VA</h3>
 
 - 🌱 I’m currently learning **Full Stack Software Engineering**
 
